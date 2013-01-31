@@ -12,6 +12,7 @@
 #
 src_files:
   - assets/application.js
+  - assets/specs.js
 
 # stylesheets
 #
@@ -37,8 +38,7 @@ stylesheets:
 # helpers:
 #   - helpers/**/*.js
 #
-helpers:
-  - helpers/**/*.js
+helpers: []
 
 # spec_files
 #
@@ -50,8 +50,7 @@ helpers:
 # spec_files:
 #   - **/*[sS]pec.js
 #
-spec_files:
-  - '**/*[sS]pec.js'
+spec_files: []
 
 # src_dir
 #
